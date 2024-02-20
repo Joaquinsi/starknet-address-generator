@@ -1,4 +1,4 @@
-# Starknet address generator
+# Starknet address generator.
 
 #install
 npm install
