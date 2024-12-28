@@ -4,7 +4,7 @@
 npm install
 
 # run
-node generator 100 - will generate 100 wallets in CSV file.
+node generator 100 - will generate 100 wallets in CSV file
 
 
 evm address / mnemonic / evm private key / starknet address / starknet key
